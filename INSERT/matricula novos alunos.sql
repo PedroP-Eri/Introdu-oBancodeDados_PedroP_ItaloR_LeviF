@@ -1,39 +1,32 @@
 PRAGMA foreign_keys = ON;
--- Beatriz
+
+-- Breatiz
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (15, 7);
-INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (15, 8);
--- Eduardo
-INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (16, 7);
--- Fernanda
-INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (17, 9);
+VALUES (8, 6);
 -- Gabriel
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (18, 7);
-INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (18, 9);
+VALUES (9, 5);
 -- Helena
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (19, 8);
+VALUES (10, 6);
 -- Isabela
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (20, 7);
--- João
+VALUES (11, 4);
+-- Joao
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (21, 8);
+VALUES (12, 4);
+-- Lucas
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (21, 9);
--- Larissa
+VALUES (13, 5);
+-- Mariana
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (22, 9);
--- Marcos
+VALUES (14, 2);
+-- Rafael
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (23, 7);
+VALUES (15, 3);
+-- Sofia
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (23, 8);
--- Natália
+VALUES (16, 5);
+-- Victor
 INSERT INTO aluno_disciplina (aluno_id, disciplina_id)
-VALUES (24, 9);
+VALUES (17, 4);
