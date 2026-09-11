@@ -1,0 +1,22 @@
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT004', 4);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT005', 8);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT006', 9);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT007', 10);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT008', 11);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT009', 12);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT010', 13);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT011', 14);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT012', 15);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT013', 16);
+INSERT INTO carteirinhas (numero, aluno_id)
+VALUES ('CT014', 17);
