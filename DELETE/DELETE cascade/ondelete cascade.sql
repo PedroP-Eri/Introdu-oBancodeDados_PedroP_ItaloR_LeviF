@@ -1,0 +1,3 @@
+FOREIGN KEY (aluno_id)
+REFERENCES alunos(id)
+ON DELETE CASCADE

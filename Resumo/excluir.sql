@@ -1,0 +1,2 @@
+DELETE FROM tabela
+WHERE condição;
